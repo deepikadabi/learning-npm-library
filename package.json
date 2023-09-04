@@ -1,7 +1,10 @@
 {
-  "name": "template-react-component-dh-library",
   "version": "0.0.1",
   "type": "module",
+  "name": "@deepikadabi/learning-npm-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/deepikadabi"
+  },
   "description": "A react component library",
   "scripts": {
     "rollup": "rollup -c"
